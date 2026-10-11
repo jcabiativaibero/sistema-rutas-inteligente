@@ -1,0 +1,301 @@
+﻿id_viaje,origen,destino,numero_tramos,hora_salida,tiempo_viaje_min
+1,Toberín,Museo del Oro,11,5.45,70.44
+2,Museo del Oro,Calle 72,1,10.53,10.88
+3,Calle 100,Calle 72,8,22.42,48.74
+4,Las Aguas,Toberín,6,17.44,41.88
+5,Toberín,Portal Norte,7,18.51,45.35
+6,Las Aguas,Universidades,11,5.91,67.18
+7,Calle 100,Calle 72,3,6.48,21.7
+8,Portal Norte,Calle 72,3,10.89,22.53
+9,Las Aguas,Museo del Oro,1,16.26,6
+10,Museo del Oro,Universidades,11,16.99,71.22
+11,Calle 100,Museo del Oro,4,8.99,22.68
+12,Toberín,Calle 63,10,5.25,64.48
+13,Calle 100,Toberín,11,16.63,73.69
+14,Portal Norte,Universidades,11,13.47,68.93
+15,Calle 72,Toberín,8,19.51,47.63
+16,Las Aguas,Calle 100,2,14.71,10.41
+17,Museo del Oro,Universidades,5,13.25,34.84
+18,Calle 72,Portal Norte,8,8.6,51.47
+19,Calle 72,Calle 63,2,16.27,9.78
+20,Las Aguas,Museo del Oro,11,22.65,65.67
+21,Toberín,Portal Norte,4,5.38,28.41
+22,Calle 100,Calle 63,7,20.57,40.54
+23,Portal Norte,Toberín,8,6.0,45.56
+24,Portal Norte,Museo del Oro,4,5.67,22.81
+25,Calle 63,Calle 72,5,22.09,28.7
+26,Calle 100,Portal Norte,1,20.17,8.53
+27,Calle 72,Portal Norte,9,10.3,55.44
+28,Universidades,Calle 72,10,18.26,59.25
+29,Toberín,Calle 72,5,6.58,27.1
+30,Las Aguas,Calle 63,9,19.52,54.13
+31,Toberín,Calle 100,10,18.12,67.25
+32,Calle 72,Calle 63,5,9.75,34.89
+33,Portal Norte,Universidades,9,20.28,60.12
+34,Toberín,Calle 100,3,21.66,21.17
+35,Portal Norte,Universidades,9,5.14,54.39
+36,Calle 100,Calle 72,4,21.68,31.71
+37,Museo del Oro,Calle 72,3,19.53,23.61
+38,Las Aguas,Universidades,5,20.12,29.45
+39,Toberín,Calle 63,5,21.98,30.61
+40,Calle 63,Calle 100,6,7.57,34.27
+41,Toberín,Museo del Oro,10,16.43,61.8
+42,Toberín,Universidades,10,9.31,61.01
+43,Universidades,Museo del Oro,10,18.88,64.34
+44,Calle 63,Museo del Oro,12,9.89,75.77
+45,Las Aguas,Calle 72,9,16.84,56.11
+46,Universidades,Toberín,9,6.89,54.12
+47,Toberín,Las Aguas,4,10.57,31.82
+48,Portal Norte,Toberín,7,21.15,41.68
+49,Toberín,Las Aguas,7,14.63,49.09
+50,Museo del Oro,Las Aguas,3,21.79,21.74
+51,Las Aguas,Calle 72,3,17.04,23.42
+52,Calle 72,Museo del Oro,5,6.76,28.52
+53,Calle 72,Museo del Oro,12,20.99,73.57
+54,Universidades,Calle 63,7,22.57,44.25
+55,Calle 63,Museo del Oro,7,15.67,44.37
+56,Calle 100,Portal Norte,8,11.35,54.25
+57,Calle 63,Museo del Oro,7,21.29,41.0
+58,Toberín,Las Aguas,6,21.14,35.77
+59,Portal Norte,Calle 72,1,8.0,11.59
+60,Calle 72,Las Aguas,4,8.36,27.2
+61,Calle 100,Calle 63,12,6.02,77.56
+62,Calle 72,Toberín,2,22.72,13.36
+63,Portal Norte,Universidades,10,7.76,65.76
+64,Toberín,Museo del Oro,9,21.02,60.05
+65,Las Aguas,Museo del Oro,6,18.83,39.78
+66,Calle 72,Las Aguas,12,16.98,78.7
+67,Universidades,Calle 63,10,11.65,62.36
+68,Museo del Oro,Las Aguas,6,13.17,33.94
+69,Calle 72,Museo del Oro,9,8.03,52.02
+70,Universidades,Las Aguas,12,17.48,73.68
+71,Las Aguas,Calle 63,5,10.61,29.11
+72,Universidades,Calle 100,12,14.32,72.26
+73,Calle 100,Las Aguas,5,17.1,34.67
+74,Calle 63,Las Aguas,2,13.02,19.62
+75,Calle 63,Toberín,2,8.29,10.67
+76,Museo del Oro,Las Aguas,4,14.35,29.53
+77,Toberín,Calle 72,8,6.19,51.71
+78,Museo del Oro,Las Aguas,11,5.84,64.72
+79,Calle 72,Calle 63,12,22.12,69.78
+80,Calle 63,Calle 100,11,14.63,70.12
+81,Las Aguas,Calle 63,2,18.38,13.83
+82,Universidades,Calle 63,12,6.61,78.78
+83,Calle 63,Portal Norte,1,5.37,14.0
+84,Las Aguas,Toberín,3,20.54,21.98
+85,Las Aguas,Calle 63,8,18.68,49.53
+86,Toberín,Museo del Oro,11,18.2,65.78
+87,Universidades,Las Aguas,9,8.3,53.06
+88,Las Aguas,Toberín,11,17.07,67.82
+89,Toberín,Calle 72,1,8.89,9.07
+90,Calle 63,Museo del Oro,2,19.33,14.6
+91,Calle 63,Museo del Oro,8,10.71,54.5
+92,Las Aguas,Calle 100,6,19.28,42.21
+93,Calle 72,Museo del Oro,8,21.63,55.26
+94,Calle 100,Las Aguas,4,21.42,25.25
+95,Las Aguas,Portal Norte,1,20.3,6
+96,Museo del Oro,Toberín,12,19.88,72.72
+97,Portal Norte,Toberín,6,20.95,42.6
+98,Toberín,Las Aguas,4,22.24,31.76
+99,Museo del Oro,Calle 100,3,16.18,18.94
+100,Museo del Oro,Calle 72,4,7.12,27.7
+101,Las Aguas,Calle 63,8,17.84,52.34
+102,Museo del Oro,Calle 63,11,19.78,70.03
+103,Universidades,Calle 63,8,10.39,49.2
+104,Las Aguas,Calle 63,12,6.18,79.02
+105,Portal Norte,Calle 63,4,11.47,27.91
+106,Calle 100,Calle 72,8,16.53,53.22
+107,Calle 63,Las Aguas,3,17.46,24.14
+108,Calle 72,Museo del Oro,5,11.37,35.3
+109,Calle 63,Museo del Oro,9,21.61,55.05
+110,Calle 72,Toberín,11,16.94,73.07
+111,Portal Norte,Calle 63,11,15.37,63.5
+112,Museo del Oro,Calle 100,8,18.15,52.38
+113,Universidades,Calle 72,7,18.46,39.36
+114,Universidades,Portal Norte,8,17.45,50.99
+115,Portal Norte,Universidades,7,6.1,46.29
+116,Calle 72,Universidades,4,14.51,27.45
+117,Calle 100,Toberín,3,13.17,20.94
+118,Calle 63,Portal Norte,11,17.43,63.17
+119,Toberín,Las Aguas,3,18.98,20.65
+120,Portal Norte,Las Aguas,9,18.91,56.04
+121,Calle 100,Toberín,7,6.71,42.54
+122,Museo del Oro,Toberín,3,18.19,19.99
+123,Calle 72,Museo del Oro,12,13.58,73.73
+124,Universidades,Calle 100,6,18.92,40.32
+125,Universidades,Calle 100,11,8.69,71.19
+126,Museo del Oro,Portal Norte,9,22.01,54.89
+127,Toberín,Universidades,5,20.64,29.47
+128,Calle 63,Portal Norte,9,6.47,57.7
+129,Museo del Oro,Toberín,3,14.34,24.57
+130,Universidades,Calle 100,3,21.59,19.62
+131,Portal Norte,Toberín,6,6.25,34.71
+132,Toberín,Universidades,5,11.97,35.3
+133,Museo del Oro,Portal Norte,7,18.37,39.5
+134,Portal Norte,Las Aguas,1,19.07,6.61
+135,Portal Norte,Museo del Oro,12,18.13,69.79
+136,Museo del Oro,Calle 63,1,21.29,10.8
+137,Universidades,Toberín,2,22.84,18.15
+138,Universidades,Calle 72,7,21.57,48.58
+139,Universidades,Calle 100,6,9.53,42.97
+140,Las Aguas,Universidades,4,5.41,22.95
+141,Universidades,Toberín,11,17.88,69.51
+142,Museo del Oro,Las Aguas,5,6.85,33.77
+143,Las Aguas,Calle 100,10,14.54,60.54
+144,Calle 100,Portal Norte,1,6.8,8.55
+145,Calle 63,Museo del Oro,4,18.1,25.1
+146,Toberín,Museo del Oro,7,16.21,39.73
+147,Calle 100,Universidades,5,14.96,30.67
+148,Museo del Oro,Universidades,5,8.87,30.41
+149,Museo del Oro,Universidades,3,7.68,22.11
+150,Calle 100,Toberín,1,22.84,6
+151,Calle 100,Museo del Oro,5,8.38,34.28
+152,Portal Norte,Museo del Oro,3,14.82,22.93
+153,Calle 72,Calle 63,6,20.85,35.57
+154,Calle 63,Museo del Oro,8,21.71,50.08
+155,Portal Norte,Las Aguas,9,15.76,60.6
+156,Calle 100,Calle 63,6,19.38,33.92
+157,Universidades,Portal Norte,8,10.03,53.98
+158,Universidades,Toberín,7,16.94,41.47
+159,Calle 100,Las Aguas,12,20.86,76.66
+160,Museo del Oro,Toberín,8,15.34,51.04
+161,Las Aguas,Portal Norte,5,21.92,27.69
+162,Museo del Oro,Calle 100,11,16.57,65.65
+163,Las Aguas,Portal Norte,11,7.67,67.29
+164,Toberín,Universidades,11,6.55,66.79
+165,Las Aguas,Calle 100,3,20.53,25.79
+166,Portal Norte,Universidades,3,5.25,23.7
+167,Portal Norte,Universidades,5,15.92,30.15
+168,Calle 100,Las Aguas,5,22.23,30.73
+169,Calle 100,Calle 63,12,22.4,69.87
+170,Las Aguas,Universidades,6,21.34,34.83
+171,Portal Norte,Toberín,8,17.41,52.03
+172,Las Aguas,Portal Norte,11,7.55,64.57
+173,Las Aguas,Universidades,3,5.27,21.66
+174,Calle 72,Toberín,6,16.55,40.15
+175,Las Aguas,Calle 72,1,17.55,11.52
+176,Las Aguas,Toberín,10,6.14,61.97
+177,Calle 100,Universidades,11,18.67,72.8
+178,Universidades,Las Aguas,9,20.71,51.29
+179,Museo del Oro,Toberín,9,21.19,56.78
+180,Calle 100,Museo del Oro,3,17.8,16.41
+181,Calle 72,Universidades,9,9.39,52.78
+182,Calle 63,Toberín,9,17.0,52.38
+183,Portal Norte,Toberín,9,18.32,60.27
+184,Portal Norte,Las Aguas,1,20.63,9.8
+185,Toberín,Portal Norte,11,20.73,66.27
+186,Universidades,Museo del Oro,3,16.82,24.48
+187,Calle 72,Calle 100,3,8.04,17.94
+188,Universidades,Calle 72,2,15.62,17.95
+189,Museo del Oro,Las Aguas,3,6.99,15.99
+190,Portal Norte,Toberín,4,21.48,24.14
+191,Calle 72,Universidades,7,5.54,43.41
+192,Toberín,Museo del Oro,9,6.15,52.42
+193,Museo del Oro,Portal Norte,6,11.37,39.63
+194,Calle 100,Universidades,1,14.0,9.67
+195,Las Aguas,Calle 63,10,18.47,62.58
+196,Portal Norte,Las Aguas,8,18.7,53.76
+197,Calle 100,Museo del Oro,5,8.87,33.42
+198,Universidades,Museo del Oro,3,10.7,15.21
+199,Portal Norte,Calle 100,3,21.83,24.6
+200,Las Aguas,Universidades,9,18.65,61.52
+201,Calle 72,Calle 63,9,18.88,57.71
+202,Las Aguas,Universidades,9,15.59,58.59
+203,Museo del Oro,Universidades,8,6.4,51.31
+204,Las Aguas,Calle 72,3,21.04,22.22
+205,Calle 72,Portal Norte,4,8.31,27.77
+206,Toberín,Calle 100,11,16.93,70.89
+207,Calle 72,Calle 63,1,21.96,8.25
+208,Portal Norte,Calle 100,6,9.41,38.89
+209,Calle 100,Calle 63,7,22.99,47.67
+210,Las Aguas,Calle 100,1,16.43,8.0
+211,Calle 100,Portal Norte,9,20.49,58.13
+212,Universidades,Toberín,12,20.58,78.1
+213,Museo del Oro,Calle 72,7,10.29,39.08
+214,Universidades,Calle 72,8,8.02,47.88
+215,Calle 63,Universidades,1,16.64,10.59
+216,Las Aguas,Calle 72,10,17.91,61.57
+217,Toberín,Portal Norte,4,19.15,21.86
+218,Calle 72,Las Aguas,9,20.49,52.28
+219,Portal Norte,Las Aguas,2,20.4,14.02
+220,Portal Norte,Museo del Oro,11,14.06,69.36
+221,Museo del Oro,Calle 100,6,22.68,33.35
+222,Museo del Oro,Toberín,3,21.26,19.93
+223,Museo del Oro,Calle 100,11,8.86,64.96
+224,Museo del Oro,Calle 72,12,22.94,76.41
+225,Museo del Oro,Portal Norte,4,6.84,21.35
+226,Portal Norte,Museo del Oro,4,5.82,23.69
+227,Universidades,Calle 72,8,19.45,47.58
+228,Calle 100,Museo del Oro,5,18.09,27.67
+229,Museo del Oro,Calle 100,9,19.77,58.66
+230,Calle 100,Las Aguas,5,17.89,36.43
+231,Universidades,Toberín,1,15.77,6
+232,Portal Norte,Toberín,8,18.9,49.15
+233,Universidades,Calle 63,4,13.11,30.56
+234,Calle 72,Museo del Oro,1,22.24,13.06
+235,Universidades,Las Aguas,4,17.52,24.39
+236,Museo del Oro,Portal Norte,8,15.87,49.08
+237,Calle 72,Universidades,10,21.66,60.25
+238,Las Aguas,Calle 100,4,18.0,23.83
+239,Toberín,Portal Norte,12,8.18,74.76
+240,Las Aguas,Universidades,1,6.65,6
+241,Museo del Oro,Portal Norte,1,21.45,6
+242,Calle 100,Toberín,1,20.05,11.87
+243,Museo del Oro,Toberín,2,18.48,11.94
+244,Toberín,Portal Norte,6,16.97,40.52
+245,Museo del Oro,Universidades,2,11.64,9.91
+246,Las Aguas,Calle 63,10,15.82,59.33
+247,Universidades,Portal Norte,1,8.7,6
+248,Calle 72,Museo del Oro,4,7.35,24.29
+249,Universidades,Portal Norte,11,8.59,68.51
+250,Universidades,Portal Norte,2,22.31,19.66
+251,Museo del Oro,Toberín,11,21.07,67.75
+252,Calle 100,Museo del Oro,10,20.8,64.83
+253,Toberín,Calle 100,6,19.77,34.12
+254,Universidades,Museo del Oro,7,17.63,45.1
+255,Calle 100,Museo del Oro,1,11.71,9.29
+256,Calle 63,Las Aguas,3,20.19,18.04
+257,Calle 100,Calle 63,2,15.61,14.04
+258,Museo del Oro,Calle 100,1,18.48,7.84
+259,Calle 63,Las Aguas,5,20.94,37.66
+260,Calle 72,Calle 100,10,17.12,58.25
+261,Calle 63,Toberín,11,9.19,67.82
+262,Museo del Oro,Toberín,7,9.97,46.87
+263,Universidades,Toberín,8,21.52,50.98
+264,Museo del Oro,Universidades,2,8.08,15.2
+265,Museo del Oro,Las Aguas,7,9.69,43.9
+266,Toberín,Calle 100,11,7.35,66.25
+267,Las Aguas,Universidades,6,21.45,34.07
+268,Calle 100,Calle 72,2,6.2,16.45
+269,Calle 100,Museo del Oro,9,10.12,59.78
+270,Calle 72,Calle 63,7,21.78,39.05
+271,Calle 72,Las Aguas,12,9.44,73.02
+272,Toberín,Universidades,2,21.92,15.72
+273,Toberín,Calle 100,6,19.25,43.11
+274,Calle 100,Museo del Oro,6,22.08,37.6
+275,Las Aguas,Calle 63,7,13.45,45.1
+276,Calle 72,Museo del Oro,3,5.75,20.33
+277,Toberín,Portal Norte,9,21.25,56.38
+278,Las Aguas,Toberín,4,20.5,27.22
+279,Las Aguas,Calle 72,10,5.46,65.36
+280,Universidades,Toberín,7,5.41,43.95
+281,Museo del Oro,Calle 100,8,19.25,54.47
+282,Calle 100,Universidades,10,16.83,62.86
+283,Museo del Oro,Portal Norte,12,6.17,70.49
+284,Museo del Oro,Las Aguas,5,19.46,36.11
+285,Calle 63,Universidades,3,7.31,19.43
+286,Las Aguas,Universidades,8,8.8,53.04
+287,Calle 63,Universidades,2,22.47,11.95
+288,Las Aguas,Portal Norte,9,7.31,51.51
+289,Calle 100,Calle 63,2,22.98,11.23
+290,Calle 100,Portal Norte,3,8.5,19.09
+291,Portal Norte,Calle 72,7,7.5,46.74
+292,Toberín,Museo del Oro,8,5.31,52.65
+293,Universidades,Calle 63,12,5.53,70.14
+294,Portal Norte,Calle 100,3,14.69,15.75
+295,Toberín,Calle 100,8,22.76,54.46
+296,Toberín,Calle 72,2,11.69,11.73
+297,Calle 63,Calle 72,9,7.4,60.33
+298,Toberín,Calle 72,9,10.32,56.44
+299,Calle 100,Museo del Oro,8,19.55,55.27
+300,Toberín,Portal Norte,10,6.68,57.18
